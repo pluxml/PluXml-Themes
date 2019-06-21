@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<title><![CDATA[Thème Fashion Blog]]></title>
+	<ip>184.160.1.106</ip>
+	<date_crea>1459545969</date_crea>
+	<date_maj>1468591516</date_maj>
+	<licence><![CDATA[Domaine public]]></licence>
+	<version><![CDATA[1.1]]></version>
+	<support><![CDATA[http://forum.pluxml.org/viewtopic.php?pid=48572]]></support>
+	<content><![CDATA[Thème qui met en valeur les images des articles.  Ne demande aucun plugin, simplement d'avoir une image d'accroche assignée <br />
+à chaque article qui doit s'afficher en page d'accueil.]]></content>
+</document>
